@@ -1,0 +1,6 @@
+[submodule "shellfire"]
+	path = shellfire
+	url = https://github.com/shellfire-dev/shellfire.git
+[submodule "psas-data-analysis"]
+	path = psas-data-analysis
+	url = https://github.com/psas/data-analysis.git

@@ -4,3 +4,6 @@
 [submodule "psas-data-analysis"]
 	path = psas-data-analysis
 	url = https://github.com/psas/data-analysis.git
+[submodule "qemu-linaro"]
+	path = qemu-linaro
+	url = https://git.linaro.org/qemu/qemu-linaro.git
